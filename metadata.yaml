@@ -1,5 +1,5 @@
 homepage: 'https://www.cooki.fi/'
 documentation: 'https://docs.cooki.fi/concepts/google-tag-manager/'
 versions:
-  - sha: 524c7ce97bdc6805a361a860bdf68692dee9a6ec
+  - sha: a2a903ff990a9caba44c2b610f58302ca974d626
     changeNotes: Initial release.
